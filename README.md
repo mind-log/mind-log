@@ -43,7 +43,7 @@ I value:
 
 ## Perspective
 
-I see technology as both a tool and an environment — something that not only extends human capability, but also quietly influences attention, habits, and identity.
+I see technology as both a tool and an environment; something that not only extends human capability, but also quietly influences attention, habits, and identity.
 
 My focus is exploring that relationship while building and learning within modern technical systems.
 
