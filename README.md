@@ -1,6 +1,6 @@
 <div align="center">
 
-# Ebisu
+# Mind-log
 
 ### Linux Systems • Cybersecurity • AI • Mind
 
